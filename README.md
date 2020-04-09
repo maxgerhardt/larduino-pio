@@ -2,7 +2,7 @@
 
 This project uses the released v3.6c version of the Larduino Arduino core (https://github.com/LGTMCU/Larduino_HSP/files/3333048/Larduino_HSP_v3.6c.zip). 
 
-This is **not** the same as the core version in the Larduino_HSP repository, for some reason (was never updated).
+This is **not** the same as the core version in the [Larduino_HSP repository](https://github.com/LGTMCU/Larduino_HSP), for some reason (was never updated).
 
 # Choose your board
 
